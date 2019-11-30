@@ -95,7 +95,7 @@ class App extends React.Component{
     return <RootView>
       <PageWrapper>
         <RootContainer modaling={modaling} pushing={pushing}>
-          <Header><div /><h1>ページ遷移サンプル</h1><div /></Header>
+          <Header><div /><h1>ページ遷移サンプルaa</h1><div /></Header>
           <PageContents>
             <CenterContainer>
               <div>
